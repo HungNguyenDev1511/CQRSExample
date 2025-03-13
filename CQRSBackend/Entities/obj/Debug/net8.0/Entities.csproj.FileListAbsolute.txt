@@ -1,0 +1,12 @@
+F:\C#\CQRSExample\CQRSBackend\Entities\bin\Debug\net8.0\Entities.deps.json
+F:\C#\CQRSExample\CQRSBackend\Entities\bin\Debug\net8.0\Entities.dll
+F:\C#\CQRSExample\CQRSBackend\Entities\bin\Debug\net8.0\Entities.pdb
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.dll
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\refint\Entities.dll
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\Entities.pdb
+F:\C#\CQRSExample\CQRSBackend\Entities\obj\Debug\net8.0\ref\Entities.dll
