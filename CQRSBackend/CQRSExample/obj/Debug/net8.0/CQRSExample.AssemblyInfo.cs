@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRSExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc93edd9347e42246e056b71fd0f46cbbd181ef8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+431807e56728b6bc91f13c6a3ab073343c143508")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRSExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRSExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
