@@ -5,11 +5,13 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSExample", "CQRSExample\CQRSExample.csproj", "{2E9EFC28-3CC1-420F-AF3A-69F2DD324A60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{39938645-68AF-4858-8BE0-93ECD97E8469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{39938645-68AF-4858-8BE0-93ECD97E8469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{C0F28A4E-FA22-4F36-8C22-5D9F3410C73F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{C0F28A4E-FA22-4F36-8C22-5D9F3410C73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{16A463BE-D24A-4D17-BFED-356F882D4F57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C0F28A4E-FA22-4F36-8C22-5D9F3410C73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F28A4E-FA22-4F36-8C22-5D9F3410C73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0F28A4E-FA22-4F36-8C22-5D9F3410C73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A463BE-D24A-4D17-BFED-356F882D4F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A463BE-D24A-4D17-BFED-356F882D4F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A463BE-D24A-4D17-BFED-356F882D4F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A463BE-D24A-4D17-BFED-356F882D4F57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

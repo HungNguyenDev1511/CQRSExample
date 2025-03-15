@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\C#\\CQRSExample\\CQRSBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\handlers\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|solutionrelative:service\\handlers\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16A463BE-D24A-4D17-BFED-356F882D4F57}|Test\\Test.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\test\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A463BE-D24A-4D17-BFED-356F882D4F57}|Test\\Test.csproj|solutionrelative:test\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A463BE-D24A-4D17-BFED-356F882D4F57}|Test\\Test.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\test\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A463BE-D24A-4D17-BFED-356F882D4F57}|Test\\Test.csproj|solutionrelative:test\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\handlers\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|solutionrelative:service\\handlers\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\command\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|solutionrelative:service\\command\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\handlers\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|solutionrelative:service\\handlers\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39938645-68AF-4858-8BE0-93ECD97E8469}|Infrastructure\\Infrastructure.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E9EFC28-3CC1-420F-AF3A-69F2DD324A60}|CQRSExample\\CQRSExample.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\cqrsexample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E9EFC28-3CC1-420F-AF3A-69F2DD324A60}|CQRSExample\\CQRSExample.csproj|solutionrelative:cqrsexample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\command\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|solutionrelative:service\\command\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B9AF724-ACC5-4B9E-891D-C33A4E5BDBE1}|Service\\Service.csproj|f:\\c#\\cqrsexample\\cqrsbackend\\service\\command\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,6 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Test\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "Test\\DeleteStudentHandler.cs",
+              "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Test\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "Test\\DeleteStudentHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wDgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:04:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateStudentCommandHandler.cs",
+              "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Test\\CreateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Test\\CreateStudentCommandHandler.cs",
+              "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Test\\CreateStudentCommandHandler.cs",
+              "RelativeToolTip": "Test\\CreateStudentCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:40:54.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GetStudentListHandler.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\GetStudentListHandler.cs",
               "RelativeDocumentMoniker": "Service\\Handlers\\GetStudentListHandler.cs",
@@ -75,46 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeleteStudentHandler.cs",
-              "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\DeleteStudentHandler.cs",
-              "RelativeDocumentMoniker": "Service\\Handlers\\DeleteStudentHandler.cs",
-              "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\DeleteStudentHandler.cs",
-              "RelativeToolTip": "Service\\Handlers\\DeleteStudentHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:43:38.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateStudentHandler.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\CreateStudentHandler.cs",
               "RelativeDocumentMoniker": "Service\\Handlers\\CreateStudentHandler.cs",
               "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\CreateStudentHandler.cs",
               "RelativeToolTip": "Service\\Handlers\\CreateStudentHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T14:43:21.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Infrastructure",
-              "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T14:41:42.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StudentDbContext.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\StudentDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\StudentDbContext.cs",
@@ -127,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\StudentRepository.cs",
@@ -140,20 +148,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "CreateStudentCommand.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Command\\CreateStudentCommand.cs",
               "RelativeDocumentMoniker": "Service\\Command\\CreateStudentCommand.cs",
               "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Command\\CreateStudentCommand.cs",
               "RelativeToolTip": "Service\\Command\\CreateStudentCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T13:35:28.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "Service\\Handlers\\DeleteStudentHandler.cs",
+              "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "Service\\Handlers\\DeleteStudentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:43:38.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T14:41:42.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DeleteStudentCommand.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Service\\Command\\DeleteStudentCommand.cs",
               "RelativeDocumentMoniker": "Service\\Command\\DeleteStudentCommand.cs",
@@ -166,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\Infrastructure\\Repositories\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IStudentRepository.cs",
@@ -179,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "StudentController.cs",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\CQRSExample\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "CQRSExample\\Controllers\\StudentController.cs",
@@ -192,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CQRSExample.csproj",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\CQRSExample\\CQRSExample.csproj",
               "RelativeDocumentMoniker": "CQRSExample\\CQRSExample.csproj",
@@ -205,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\C#\\CQRSExample\\CQRSBackend\\CQRSExample\\appsettings.json",
               "RelativeDocumentMoniker": "CQRSExample\\appsettings.json",
